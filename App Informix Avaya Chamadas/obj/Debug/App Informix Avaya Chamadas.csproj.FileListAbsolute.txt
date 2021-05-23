@@ -1,0 +1,7 @@
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\bin\Debug\App Informix Avaya Chamadas.exe.config
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\bin\Debug\App Informix Avaya Chamadas.exe
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\bin\Debug\App Informix Avaya Chamadas.pdb
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\obj\Debug\App Informix Avaya Chamadas.csprojAssemblyReference.cache
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\obj\Debug\App Informix Avaya Chamadas.csproj.CoreCompileInputs.cache
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\obj\Debug\App Informix Avaya Chamadas.exe
+E:\Avaya CMS Informix Database\App Informix Avaya Chamadas\App Informix Avaya Chamadas\obj\Debug\App Informix Avaya Chamadas.pdb
